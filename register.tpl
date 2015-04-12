@@ -1,4 +1,5 @@
 //oc2\catalog\view\theme\default\template\account\register.tpl
+
 <?php echo $header; ?>
 <div class="container">
   <ul class="breadcrumb">
